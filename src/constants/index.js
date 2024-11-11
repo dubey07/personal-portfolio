@@ -951,7 +951,7 @@ export const aboutMe = {
     githubUsername: 'dubey07',
     tagLine: "Software Developer",
     intro: "Software Developer from India who is either busy improving his craft or pondering over the next big idea."
-}
+} 
 
 // The maximum number of PRs to be displayed in the Open Source Contributions section.
 export const itemsToFetch = 20;
