@@ -62,7 +62,7 @@ import {
 import { DiCss3, DiJava, DiMsqlServer, DiRuby } from "react-icons/di";
 
 export const resumeLink = "https://drive.google.com/file/d/1N9JZqKemdzhRko2sRoI5isNkVGCTRmfN/view";
-export const repoLink = "https://github.com/mittal-parth/personal-portfolio";
+export const repoLink = "https://github.com/dubey07/personal-portfolio";
 
 export const callToAction = "https://www.linkedin.com/in/aaditya-dubey-4944071aa/";
 
@@ -161,7 +161,7 @@ export const achievements = [
     content2: "",
     content3: "",
     youtube: "https://www.youtube.com/watch?v=X2473En3h_o&t=5278s",
-    project: "https://parthmittal.netlify.app/",
+    project: "",
   },
   {
     id: "a-5",
@@ -654,7 +654,7 @@ export const projects = [
   // {
   //   id: "project-8",
   //   title: "Cluboard",
-  //   github: "https://github.com/mittal-parth/Cluboard",
+  //   github: "",
   //   link: "",
   //   image: cluboard,
   //   content:
@@ -695,7 +695,7 @@ export const projects = [
   // {
   //   id: "project-9",
   //   title: "Cash Flow Minimiser",
-  //   github: "https://github.com/mittal-parth/Cash-Flow-Minmiser",
+  //   github: "",
   //   link: "https://minimise-cash-flow.netlify.app/",
   //   image: cash_flow,
   //   content:
@@ -721,8 +721,8 @@ export const projects = [
   // {
   //   id: "project-10",
   //   title: "Portfolio",
-  //   github: "https://github.com/mittal-parth/personal-portfolio",
-  //   link: "https://parthmittal.netlify.app/",
+  //   github: "",
+  //   link: "",
   //   image: portfolio,
   //   content: "Personal portfolio website with React and Tailwind CSS.",
   //   stack: [
@@ -936,12 +936,12 @@ export const socialMedia = [
   // {
   //   id: "social-media-4",
   //   icon: AiOutlineTwitter,
-  //   link: "https://www.twitter.com/mittalparth_",
+  //   link: "",
   // },
   // {
   //   id: "social-media-5",
   //   icon: AiFillInstagram,
-  //   link: "https://www.instagram.com/mittalparth_",
+  //   link: "",
   // },
 ];
 
